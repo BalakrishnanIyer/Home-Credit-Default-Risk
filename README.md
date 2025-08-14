@@ -6,15 +6,6 @@ Dataset: https://www.kaggle.com/c/home-credit-default-risk/overview
 
 Reference notebook: https://www.kaggle.com/jsaguiar/lightgbm-with-simple-features
 
-__Project team members:__
-
-- Ali Baltaci: https://github.com/alibaltaci
-- Beren Sak: https://github.com/berensak
-- Yakup Kaplan: https://github.com/yakupkaplan
-
-__Mentor:__
-
-- Muhammet Cakmak: https://github.com/muhammet-cakmak
 
 
 __Target definition:__ 
